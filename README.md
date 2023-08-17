@@ -165,11 +165,11 @@ https://img.shields.io/github/stars/li-junpeng/dbtu-client
 ```
 
 # Star趋势图:
-![](https://starchart.cc/zongzibinbin/MallChat.svg)
+![](https://starchart.cc/li-junpeng/dbtu-client.svg)
 
 ```
 
-https://starchart.cc/zongzibinbin/MallChat.svg
+https://starchart.cc/li-junpeng/dbtu-client.svg
 
 ```
 
